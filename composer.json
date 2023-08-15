@@ -1,6 +1,6 @@
 {
     "name": "egov/vws",
-    "type": "Service",
+    "type": "service",
     "description": "Light service for egovernment",
     "keywords": ["framework","service"],
     "homepage": "https://github.com/firmafadi/vws",
