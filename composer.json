@@ -1,0 +1,18 @@
+{
+    "name": "egov/vws",
+    "type": "Service",
+    "description": "Light service for egovernment",
+    "keywords": ["framework","service"],
+    "homepage": "https://github.com/firmafadi/vws",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "eGovernment Recis",
+            "email": "egov@mail.com",
+            "role": "Division"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    }
+}
