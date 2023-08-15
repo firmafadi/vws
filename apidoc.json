@@ -1,0 +1,9 @@
+{
+    "name": "API VTax",
+    "version": "0.1.1",
+    "description": "Dokumentasi API VTax Web Service",
+    "apidoc": {
+      "title": "API VTax",
+      "url" : "http://119.252.160.220/vtax-web-service"
+    }
+  }
